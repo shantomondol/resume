@@ -1,0 +1,27 @@
+
+/*-----------------------------------------------------------*/
+/*------------------------ MOBILE ---------------------------*/
+/*-----------------------------------------------------------*/
+@media (max-width: 480px){
+
+	/*global*/
+	body { font-size: 14px; }
+
+	header,
+	section,
+	footer {
+		width: 480px;
+		margin: 0 auto;
+	}
+	
+	header { margin-bottom: 5px; }
+
+	header h1 {font-size: 280%; }
+
+	h2 { font-size: 190%; }
+
+	h3 { font-size: 150%; }
+
+	p { font-size: 110%; }
+
+	table { font-size: 110%; }
